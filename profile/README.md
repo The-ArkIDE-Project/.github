@@ -17,6 +17,11 @@ What this adds from penguinmod:
 - https://github.com/arc360alt/ArkIDE-ExtensionGallery
 - https://github.com/arc360alt/ArkIDE-Paint
 
+# ArkIDE Todo:
+- Sync the ArkIDE Paint repo with Penguinmods (to get all the new features)
+- Sync the ArkIDE Editor repo with penguinmods (to get all the new features)
+- Code and add new extensions for ArkIDE
+
 # Developers/Contributers:
 ### [Arc360](https://arkide.site/profile?user=ark) (Developer, Owner, Admin)
 ### [Insomnia64](https://arkide.site/profile?user=insomnia64) (Artist, Co-Owner, Admin)
