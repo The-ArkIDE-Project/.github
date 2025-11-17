@@ -18,7 +18,6 @@ What this adds from penguinmod:
 - https://github.com/arc360alt/ArkIDE-Paint
 
 # ArkIDE Todo:
-- Sync the ArkIDE Paint repo with Penguinmods (to get all the new features)
 - Sync the ArkIDE Editor repo with penguinmods (to get all the new features)
 - Code and add new extensions for ArkIDE
 
