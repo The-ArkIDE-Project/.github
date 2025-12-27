@@ -3,7 +3,7 @@
 ## ArkIDE is a fork of Penguinmod made by 2 people in spite of our school blocking Penguinmod.
 
 What this adds from penguinmod:
-- New extensions
+- New extensions (Like ArKIDE Additions, JSON Numbers arrays, and ArkIDE Console)
 - Revamped UI (WIP)
 - Nice purple/blue theme
 - Full on project servers (that are a bit more stable than penguinmods lol)
@@ -11,7 +11,7 @@ What this adds from penguinmod:
 
 # ArkIDE Todo:
 - Sync the ArkIDE Editor repo with penguinmods (to get all the new features)
-- Code and add new extensions for ArkIDE
+- Code and add new extensions for ArkIDE (Already have 3 new ones so far)
 
 # Developers/Contributers:
 ### [Arc360](https://arkide.site/profile?user=ark) (Developer, Owner, Admin)
