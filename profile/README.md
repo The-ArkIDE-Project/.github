@@ -7,6 +7,7 @@ What this adds from penguinmod:
 - Revamped UI (WIP)
 - Nice purple/blue theme
 - Full on project servers (that are a bit more stable than penguinmods lol)
+- Full on extension creator (forked from another repo where I updated the app a bunch)
 - And a bunch more
 
 # ArkIDE Todo:
