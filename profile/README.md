@@ -17,3 +17,4 @@ What this adds from penguinmod:
 # Developers/Contributers:
 ### [Arc360](https://arkide.site/profile?user=ark) (Developer, Owner, Admin)
 ### [Insomnia64](https://arkide.site/profile?user=insomnia64) (Artist, Admin)
+### [w9pti](https://arkide.site/profile?user=w9pti) (Advertiser, Moderator)
