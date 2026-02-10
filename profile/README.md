@@ -10,6 +10,9 @@ What this adds from penguinmod:
 - Full on extension creator (forked from another repo where I updated the app a bunch)
 - And a bunch more
 
+# Why the name  "ArkIDE"
+Well, my online name is "Ark" as you can tell, and IDE stands for "Integrated Development Environment", and penguinmod is an IDE, so I combined the 2 and got "ArkIDE", Heavaly inspired by the other penguinmod fork, "SnailIDE"
+
 # ArkIDE Todo:
 - Sync the ArkIDE Editor repo with penguinmods (to get all the new features)
 - Code and add new extensions for ArkIDE (Already have 3 new ones so far)
