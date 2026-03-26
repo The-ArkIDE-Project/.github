@@ -18,6 +18,6 @@ Well, my online name is "Ark" as you can tell, and IDE stands for "Integrated De
 - Code and add new extensions for ArkIDE (Already have 3 new ones so far)
 
 # Developers/Contributers:
-### [Arc360](https://arkide.site/profile?user=ark) (Developer, Owner, Admin)
+### [Arc360](https://arkide.site/profile?user=ark) (Developer, Owner, Admin, Donation Manager)
 ### [Insomnia64](https://arkide.site/profile?user=insomnia64) (Artist, Admin)
-### [w9pti](https://arkide.site/profile?user=w9pti) (Advertiser, Moderator)
+### [w9pti](https://arkide.site/profile?user=w9pti) (Moderator)
