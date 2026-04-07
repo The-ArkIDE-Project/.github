@@ -2,6 +2,8 @@
 # The ArkIDE Project
 ## ArkIDE is a fork of Penguinmod made by 2 people in spite of our school blocking Penguinmod.
 
+Please read this devpost to learn about the current state of the project: https://arkide.site/devposts/winding-down-development/
+
 What this adds from penguinmod:
 - New extensions (Like ArKIDE Additions, JSON Numbers arrays, and ArkIDE Console)
 - Revamped UI (WIP)
