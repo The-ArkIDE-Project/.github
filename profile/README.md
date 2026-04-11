@@ -1,8 +1,7 @@
+# Please read this devpost to learn about the current state of the project: https://arkide.site/devposts/winding-down-development/
 # <img width="2508" height="848" alt="banner(2)" src="https://github.com/user-attachments/assets/38b0f9a8-2be2-4ad7-970e-ee321c900579" />
 # The ArkIDE Project
 ## ArkIDE is a fork of Penguinmod made by 2 people in spite of our school blocking Penguinmod.
-
-Please read this devpost to learn about the current state of the project: https://arkide.site/devposts/winding-down-development/
 
 What this adds from penguinmod:
 - New extensions (Like ArKIDE Additions, JSON Numbers arrays, and ArkIDE Console)
